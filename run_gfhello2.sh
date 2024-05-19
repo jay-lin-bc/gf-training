@@ -1,0 +1,1 @@
+/usr/bin/env /Library/Java/JavaVirtualMachines/openlogic-openjdk-17.jdk/Contents/Home/bin/java @/var/folders/d8/ly8dhbhd6bn112wbz9rwp3vr0000gp/T/cp_3uhsem4ar7zw3yxnjwhkf35t8.argfile com.vmware.gemfire.gfhello2
